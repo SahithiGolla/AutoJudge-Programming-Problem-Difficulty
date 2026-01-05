@@ -142,19 +142,16 @@ The application runs locally without requiring deployment.
 
 \## Demo Video
 
-Demo video link (2–3 minutes):
+Demo video link: https://drive.google.com/file/d/12u0l_lN9kFePTAi_MuxHOhD5extLHhew/view?usp=drivesdk 
 
-ADD YOUR VIDEO LINK HERE
 
 
 
 \## Author
 
 Name: Sahithi Golla
+Brach: DSAI, 3rd year
 
-Institution: IIT Roorkee  
-
-Domain: Data Science / Machine Learning
 
 
 
